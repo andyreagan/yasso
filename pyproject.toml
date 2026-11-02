@@ -1,0 +1,13 @@
+[project]
+name = "yasso"
+version = "0.1.0"
+description = "Power-law fit of running world records, testing the Yasso 800 marathon predictor"
+requires-python = ">=3.11"
+dependencies = [
+    "altair",
+    "jupyter",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "statsmodels",
+]
